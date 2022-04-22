@@ -116,7 +116,7 @@ pyobjc-framework-VideoSubscriberAccount==5.2
 pyobjc-framework-VideoToolbox==5.2
 pyobjc-framework-Vision==5.2
 pyobjc-framework-WebKit==5.2
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyperclip==1.7.0
 PyRect==0.1.4
 PyScreeze==0.1.22
